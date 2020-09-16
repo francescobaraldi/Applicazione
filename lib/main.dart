@@ -4,6 +4,7 @@ import 'package:Applicazione/Screens/Login.dart';
 import 'package:Applicazione/Screens/Registrazione.dart';
 import 'package:Applicazione/Screens/ConfermaRegistrazione.dart';
 import 'package:Applicazione/Screens/HomePage.dart';
+import 'dart:io' show Platform;
 
 void main() async {
   runApp(MyApp());
